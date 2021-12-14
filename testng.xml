@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="All Test Suite">
+<!--    <test verbose="2" preserve-order="true" name="C:/Users/iakkyratnov/IdeaProjects/TestNG">-->
+    <test name="Test run Ivan">
+<!--        <classes>-->
+<!--            <class name="smoke.Avito"></class>-->
+<!--        </classes>-->
+
+
+<!--        <packages>-->
+<!--            <package name="smoke"/>-->
+<!--        </packages>-->
+        
+        <classes>
+            <class name="smoke.PaginationTest"/>
+            <class name="smoke.AlertTest"/>
+            <class name="smoke.MoveTest"/>
+        </classes>
+
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <include name="smokeTest"/>-->
+<!--            </run>-->
+<!--        </groups>-->
+        
+        
+    </test>
+    
+<!--    <test name="PageObject">-->
+<!--        <parameter name="login" value="pass"/>-->
+<!--        <classes>-->
+<!--            <class name="ExchangeRateTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
