@@ -3,9 +3,9 @@
 
 
 <suite name="All Test Suite">
-<!--    <test verbose="2" preserve-order="true" name="C:/Users/iakkyratnov/IdeaProjects/TestNG">-->
-    <test name="Test run Ivan">
-<!--        <classes>-->
+    <test verbose="2" preserve-order="true" name="C:/Users/iakkyratnov/IdeaProjects/TestNG">
+    <!--    <test name="Test run Ivan">
+       <classes>-->
 <!--            <class name="smoke.Avito"></class>-->
 <!--        </classes>-->
 
