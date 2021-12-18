@@ -16,7 +16,6 @@
         
         <classes>
             <class name="smoke.PaginationTest"/>
-<!--            <class name="smoke.AlertTest"/>-->
             <class name="smoke.MoveTest"/>
         </classes>
 
